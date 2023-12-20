@@ -1,4 +1,4 @@
-function carregar() {
+function carregarHorario() {
 
     var msg = window.document.getElementById('msg')
     var img = window.document.getElementById('img') 
